@@ -1,0 +1,6 @@
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\bin\Release\SolarWinds.Orion.Core.BusinessLayer.dll
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\bin\Release\SolarWinds.Orion.Core.BusinessLayer.pdb
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\obj\Release\SolarWinds.Orion.Core.BusinessLayer.csproj.AssemblyReference.cache
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\obj\Release\SolarWinds.Orion.Core.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\obj\Release\SolarWinds.Orion.Core.BusinessLayer.dll
+D:\6th Sem\Computer Security 19CSE311\CaseStudy\Sunburst-Emulation\SunburstC2Server\SolarWinds.Orion.Core.BusinessLayer\obj\Release\SolarWinds.Orion.Core.BusinessLayer.pdb
